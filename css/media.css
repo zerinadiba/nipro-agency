@@ -1,0 +1,684 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	/*header start*/
+.logo{
+	font-size: 20px !important;
+}
+.dd{
+	margin-left: -8px !important;
+}
+.ddm{
+	width: 310px !important;
+}
+
+
+.ddm[data-bs-popper] {
+    top: 39px !important;
+    left: -17px !important;
+    margin-top: 0px;
+}
+/*welcome start*/
+.welcome{
+        padding: 40px 5px 40px!important;
+}
+.c_title h1 {
+        font-size: 18pt !important;
+    }
+.w_p p {
+	font-size: 10pt!important;
+        margin: 5px 0px 0 !important;
+    }
+   .w_icon i {
+        font-size: 50px !important;
+    }
+       .wh2 {
+        font-size: 14pt !important;
+    }
+ .w_line {
+        margin: 0 102px 22px !important;
+    }
+       .w_feature p {
+        font-size: 14px !important;
+    }
+/*about start*/
+.about{
+            padding: 40px 5px 40px!important;
+}
+    .a_h1 {
+    	margin-top: 24px !important;
+        font-size: 30px !important;
+        line-height: 4px !important;
+    }
+
+    .a_p1,.a_p2{
+	font-size: 12px !important;
+}
+    .about_text a {
+        font-size: 10pt!important;
+    }
+ /*recent start*/
+ .recent .navbar-expand .navbar-nav{
+ 	flex-direction: column !important;
+ }
+.recent{
+           padding: 40px 5px 40px!important;
+}
+        .menu2 ul li a {
+          margin-right: 6px !important;
+        margin-left: -6px !important;
+    }
+ .r_text i {
+        margin: 63px 94px !important;
+    }
+        .r_hp h2 {
+        font-size: 11pt !important;
+    }
+    .r_hp {
+        padding: 12px 5px 10px 10px !important;
+    }
+        .r_hp p {
+        font-size: 8pt!important;
+    }
+        .rw {
+        width: 100% !important;
+    }
+/*nipro start*/
+.nipro{
+            padding: 40px 5px 40px!important;
+}
+.c_title h1 {
+        font-size: 22pt !important;
+    }
+.f_item{
+            margin-left: 0px !important;
+
+    }
+ .f_text h2 {
+        font-size: 15px !important;
+    }
+ .f_text p{
+        font-size: 13px !important;
+    }
+ /*work start*/
+ .c_title h1 {
+        font-size: 16pt !important;
+    }
+    .work{
+            padding: 40px 5px 40px!important;
+    }
+    .wr_content{
+        margin-left: 22px !important;
+    }
+     .wr_text h2 {
+        font-size: 12px !important;
+    }
+     .wr_text {
+        width: 100% !important;
+    }
+ /*Price start*/
+    
+    .price_pad{
+    padding: 37px!important;
+}
+    .pr_h2 {
+        width: 36% !important;
+    }
+   .pr_h3 {
+        width: 68% !important;
+    }
+    /*nipro template start*/
+    .template{
+            padding: 0px 4px 0px!important;
+    }
+        .tem_title h1 {
+        font-size: 14pt !important;
+    }
+        .btt {
+        font-size: 11pt !important;
+    }
+    .tem_buy {
+        margin-left: 85px !important;
+
+    }
+/*slider2 start*/
+            .slide_b {
+        padding: 20px 50px 0px !important;
+    }
+        .b1 {
+        margin: 23px -32px 34px !important;
+    }
+   
+    .span_b {
+        margin-top: -86px !important;
+        margin-left: 77px!important;
+    }
+        .b2 {
+        margin: 40px -32px -24px !important;
+    }
+    .b1 p, .b2 p, .span_b{
+    writing-mode: initial !important;
+    text-orientation: mixed !important;
+}
+.b1 p{
+    margin-top: -46px !important;
+    margin-left: 32px !important;
+
+}
+.b2 p{
+    margin-left: 146px !important;
+    margin-top: -75px !important;
+}	
+/*contact us start*/
+    .c_h1 {
+        width: 129% !important;
+        margin-top: -112px !important;
+        margin-left: -9px !important;
+        font-size: 19px !important;
+}
+.c_form{
+	border: none !important;
+}
+.form {
+        margin-top: 64px !important;
+        margin-left: -44px !important;
+        margin-bottom: -95px !important;
+    }
+.form-label{
+	font-size: 10pt !important;
+}
+    .form-control {
+        width: 192% !important;
+        padding: 12px 7px !important;
+        font-size: 10px !important;
+    
+    }
+    .btnb {
+        margin-left: 37px !important;
+        font-size: 9pt !important;
+    }
+ /*footer start*/
+        .ft_icon {
+        padding: 0 0px 100px !important;
+ }
+     .f_top ul li {
+        margin-bottom: 13px !important;
+        margin-left: 2px !important;
+        margin-right: 16px !important;
+    }
+ .f_end p {
+ 	font-size: 12px !important;
+ }
+ .f_end ul{
+ 	padding-right: 125px !important;
+ }
+    .f_end ul li a {
+        margin: 0 -13px 0 !important;
+        font-size: 8px !important;
+    }		
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+.logo{
+	font-size: 27px !important;
+}
+.dd{
+	margin-left: -8px !important;
+}
+.ddm{
+	width: 310px !important;
+}
+
+
+.ddm[data-bs-popper] {
+    top: -30px !important;
+    left: 112px !important;
+    margin-top: 0px;
+}
+/*welcome start*/
+.c_title h1 {
+        font-size: 18pt !important;
+    }
+.w_p p {
+	font-size: 14pt!important;
+        margin: 5px -172px 0 !important;
+    }
+ .w_line {
+        margin: 0 84px 22px !important;
+    }
+/*about start*/
+    .a_h1 {
+    	margin-top: 24px !important;
+        font-size: 30px !important;
+        line-height: 4px !important;
+    }
+
+    .a_p1,.a_p2{
+	font-size: 12px !important;
+}
+    .about_text a {
+        font-size: 10pt!important;
+    }
+ /*recent start*/
+ .menu2 ul li a {
+          margin-right: 6px !important;
+        margin-left: -6px !important;
+    }
+ .r_text i {
+        margin: 63px 73px !important;
+    }
+        .r_hp h2 {
+        font-size: 11pt !important;
+    }
+    .r_hp {
+        padding: 12px 5px 10px 10px !important;
+    }
+        .r_hp p {
+        font-size: 8pt!important;
+    }
+        .rw {
+        width: 100% !important;
+    }
+
+/*nipro start*/
+.c_title h1 {
+        font-size: 22pt !important;
+    }
+    .f_item{
+            margin-left: -90px !important;
+
+    }
+ .f_text h2 {
+        font-size: 15px !important;
+    }
+ .f_text p{
+        font-size: 13px !important;
+    }
+ /*work start*/
+ .c_title h1 {
+        font-size: 21pt !important;
+    }
+     .wr_text h2 {
+        font-size: 12px !important;
+    }
+     .wr_text {
+        width: 100% !important;
+    }
+ /*Price start*/
+ .price_pad{
+    padding: 92px!important;
+}
+    .pr_h2 {
+        width: 36% !important;
+    }
+   .pr_h3 {
+        width: 68% !important;
+    }
+    /*nipro template start*/
+        .tem_title h1 {
+        font-size: 14pt !important;
+    }
+        .btt {
+        font-size: 11pt !important;
+    }
+    .tem_buy {
+        margin-left: 40px !important;
+
+    }
+/*slider2 start*/
+ .slid{
+    padding: 53px!important;
+ }
+            .slide_b {
+        padding: 20px 1px 0px !important;
+    }
+        .b1 {
+        margin: 23px -32px 34px !important;
+    }
+   
+    .span_b {
+        margin-top: -86px !important;
+        margin-left: 67px!important;
+    }
+        .b2 {
+        margin: 40px -32px -24px !important;
+    }
+    .b1 p, .b2 p, .span_b{
+    writing-mode: initial !important;
+    text-orientation: mixed !important;
+}
+.b1 p{
+    margin-top: -46px !important;
+    margin-left: 32px !important;
+
+}
+.b2 p{
+    margin-left: 120px !important;
+    margin-top: -75px !important;
+}
+/*contact us start*/
+    .c_h1 {
+        width: 67% !important;
+        margin-left: 44px !important;
+}
+    .btnb {
+        margin-left: 72px !important;
+        font-size: 13pt !important;
+    }
+ /*footer start*/
+        .ft_icon {
+        padding: 0 0px 100px !important;
+ }
+ .f_end p {
+ 	font-size: 15px !important;
+ }
+ .f_end ul{
+ 	padding-right: 125px !important;
+ }
+    .f_end ul li a {
+        margin: 0 -9px 0 !important;
+        font-size: 12px !important;
+    }	
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+.logo{
+	font-size: 27px !important;
+}
+.dd{
+	margin-left: -8px !important;
+}
+.ddm{
+	width: 310px !important;
+}
+
+
+.ddm[data-bs-popper] {
+    top: -30px !important;
+    left: 112px !important;
+    margin-top: 0px;
+}
+/*welcome start*/
+.c_title h1 {
+        font-size: 18pt !important;
+    }
+.w_p p {
+	font-size: 14pt!important;
+        margin: 5px -172px 0 !important;
+    }
+ .w_line {
+        margin: 0 128px 22px !important;
+    }
+/*about start*/
+    .a_h1 {
+        font-size: 30px !important;
+        line-height: 4px !important;
+    }
+
+    .a_p1,.a_p2{
+	font-size: 12px !important;
+}
+    .about_text a {
+        font-size: 10pt!important;
+    }
+/*recent start*/
+
+        .menu2 ul li a {
+          margin-right: 10px !important;
+        margin-left: -6px !important;
+    }
+
+      .r_text i {
+        margin: 99px 113px !important;
+    }
+        .r_hp h2 {
+        font-size: 11pt !important;
+    }
+    .r_hp {
+        padding: 12px 5px 10px 10px !important;
+    }
+        .r_hp p {
+        font-size: 8pt!important;
+    }
+        .rw {
+        width: 75% !important;
+    }
+
+/*nipro start*/
+.c_title h1 {
+        font-size: 22pt !important;
+    }
+    .f_item{
+            margin-left: -90px !important;
+
+    }
+    .f_icon i {
+
+        font-size: 40px !important;
+    }
+ .f_text h2 {
+        font-size: 15px !important;
+    }
+    .f_text p{
+        font-size: 13px !important;
+    }
+.n_line {
+        margin: 15px -32px 22px !important;
+        width: 210px !important;
+    }
+ /*work start*/
+ .c_title h1 {
+        font-size: 21pt !important;
+    }
+     .wr_text h2 {
+        font-size: 12px !important;
+    }
+     .wr_text {
+        width: 90% !important;
+    }
+ /*Price start*/
+    .pr_h2 {
+        width: 28% !important;
+    }
+   .pr_h3 {
+        width: 50% !important;
+    }
+    /*nipro template start*/
+    .tem_buy {
+        margin-left: 60px !important;
+
+    }
+/*slider2 start*/
+            .slide_b {
+        padding: 20px 1px 56px !important;
+    }
+        .b1 {
+        margin: 23px -32px 34px !important;
+    }
+   
+        .span_b {
+        margin-left: 7px!important;
+    }
+        .b2 {
+        margin: 40px -32px -24px !important;
+    }
+/*contact us start*/
+    .c_h1 {
+        width: 44% !important;
+        margin-left: 135px !important;
+}
+    .btnb {
+        margin-left: 172px !important;
+        font-size: 13pt !important;
+    }
+ /*footer start*/
+        .ft_icon {
+        padding: 0 0px 100px !important;
+ }
+ .f_end p {
+ 	font-size: 15px !important;
+ }
+    .f_end ul li a {
+        margin: 0 -10px 0 !important;
+        font-size: 12px !important;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*welcome start*/
+.c_title h1 {
+        font-size: 22pt !important;
+    }
+.w_p p {
+        margin: 5px -250px 0 !important;
+    }
+ .w_line {
+        margin: 0 75px 22px !important;
+    }
+/*about start*/
+    .a_h1 {
+        font-size: 40px !important;
+        line-height: 30px !important;
+    }
+    .about_text a {
+        font-size: 12pt!important;
+    }
+ /*recent start*/
+
+        .menu2 ul li a {
+          margin-right: 10px !important;
+        margin-left: -6px !important;
+    }
+        .r_text i {
+        margin: 99px 94px !important;
+    }
+        .r_hp h2 {
+        font-size: 11pt !important;
+    }
+        .r_hp p {
+        font-size: 8pt!important;
+    }
+        .rw {
+        width: 56% !important;
+    }
+/*nipro start*/
+.c_title h1 {
+        font-size: 22pt !important;
+    }
+ .f_text h2 {
+        font-size: 21px !important;
+    }
+.n_line {
+        margin: 15px -50px 22px !important;
+        width: 261px !important;
+    }
+ /*work start*/
+ .c_title h1 {
+        font-size: 21pt !important;
+    }
+     .wr_text h2 {
+        font-size: 12px !important;
+    }
+     .wr_text {
+        width: 100% !important;
+    }
+ /*Price start*/
+    .pr_h2 {
+        width: 47% !important;
+    }
+   .pr_h3 {
+        width: 80% !important;
+    }
+    /*nipro template start*/
+    .tem_buy {
+        margin-left: 147px !important;
+
+    }
+/*slider2 start*/
+            .slide_b {
+        padding: 20px 4px 56px !important;
+    }
+        .b1 {
+        margin: 23px -25px 34px !important;
+    }
+   
+        .span_b {
+        margin-left: 12px!important;
+    }
+        .b2 {
+        margin: 40px -26px -24px !important;
+    }
+ /*contact us start*/
+    .c_h1 {
+        width: 33% !important;
+        margin-left: 216px !important;
+}
+    .btnb {
+        margin-left: 250px !important;
+    }
+ /*footer start*/
+        .ft_icon {
+        padding: 0 0px 100px !important;
+ }
+}
+
+/* Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*welcome start*/
+.c_title h1 {
+        font-size: 27pt !important;
+    }
+.w_p p {
+        margin: 5px -300px 0 !important;
+    }
+ .w_line {
+        margin: 0 93px 22px !important;
+    }
+/*recent start*/
+
+        .menu2 ul li a {
+        margin-right: -5px !important;
+        margin-left: 1px !important;
+    }
+/*nipro start*/
+.c_title h1 {
+        font-size: 25pt !important;
+    }
+ /*work start*/
+     .wr_text h2 {
+        font-size: 15px !important;
+    }
+     .wr_text {
+        width: 100% !important;
+    }
+    /*nipro template start*/
+    .tem_buy {
+        margin-left: 175px !important;
+
+    }
+/*slider2 start*/
+            .slide_b {
+        padding: 0px 6px 14px !important;
+    }
+ /*contact us start*/
+    .c_h1 {
+        width: 27% !important;
+        margin-left: 331px !important;
+}
+    .btnb {
+        margin-left: 342px !important;
+    }
+ /*footer start*/
+        .ft_icon {
+        padding: 0 0px 100px !important;
+ }
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}
